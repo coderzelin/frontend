@@ -4,3 +4,4 @@
 - [JS](https://github.com/coderzelin/pre-interview/blob/master/03JS.md)
 - [浏览器](https://github.com/coderzelin/pre-interview/blob/master/04%E6%B5%8F%E8%A7%88%E5%99%A8.md)
 - [JS笔试题](https://github.com/coderzelin/pre-interview/blob/master/05JS%E7%AC%94%E8%AF%95%E9%A2%98.md)
+- [运行机制](https://github.com/coderzelin/frontend-infomation/blob/master/06JS%E5%8E%9F%E7%90%86.md)
